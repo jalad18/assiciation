@@ -1,0 +1,2 @@
+class Motercycle < Vehicle
+end
